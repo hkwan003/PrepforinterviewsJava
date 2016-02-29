@@ -36,6 +36,27 @@ public class LinkedList2
 
         return reverseRest;
     }
+    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    Node ReverseRecursive2(Node node)
+    {
+        if(node == null)
+        {
+            return null;
+        }
+        if(node.next == null)
+        {
+            return node;
+        }
+        Node nextNode = node.next;
+        node.next = null;
+        Node temp = ReverseRecursive2(nextNode);
+        nextNode.next = temp;
+
+        return temp;
+    }
+
+
 
     Node reverse(Node node)         //iteratively reverse
     {

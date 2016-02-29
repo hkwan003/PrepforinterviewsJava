@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5ac06ea-df1e-4beb-9e58-31472dd86ae7" name="Default" comment="adding reversing a sentence code">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Multiplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/checkParenthesis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/reverse_sentence.java" />
+    <list default="true" id="e5ac06ea-df1e-4beb-9e58-31472dd86ae7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/StringToInt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/splitArrayToZero.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Prep for interviews/com/company/LinkedList2.class" afterPath="$PROJECT_DIR$/out/production/Prep for interviews/com/company/LinkedList2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/LinkedList2.java" afterPath="$PROJECT_DIR$/src/com/company/LinkedList2.java" />
@@ -36,82 +35,12 @@
     <splitter split-orientation="horizontal" split-proportion="0.72636104">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="LinkedList2.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList2.java">
+          <file leaf-file-name="StringToInt.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/company/StringToInt.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+                <state vertical-scroll-proportion="0.48166665">
+                  <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="checkParenthesis.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/checkParenthesis.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Multiplication.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/Multiplication.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-                  <folding>
-                    <element signature="e#640#641#0" expanded="true" />
-                    <element signature="e#699#700#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="checkpermutation.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/checkpermutation.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-                  <folding>
-                    <element signature="e#179#180#0" expanded="true" />
-                    <element signature="e#215#216#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="reverse_sentence.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/company/reverse_sentence.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.89170897">
-                  <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#305#313#0" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -123,7 +52,7 @@
           <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4890017">
+                <state vertical-scroll-proportion="0.48166665">
                   <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
                   <folding />
                 </state>
@@ -161,9 +90,11 @@
         <option value="$PROJECT_DIR$/src/com/company/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/company/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/com/company/Multiplication.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LinkedList2.java" />
         <option value="$PROJECT_DIR$/src/com/company/checkParenthesis.java" />
         <option value="$PROJECT_DIR$/src/com/company/reverse_sentence.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LinkedList2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/splitArrayToZero.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringToInt.java" />
       </list>
     </option>
   </component>
@@ -257,47 +188,7 @@
     <property name="SearchEverywhereHistoryKey" value="line numb&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$USER_HOME$/.gitconfig" />
   </component>
-  <component name="RunManager" selected="Application.reverse_sentence">
-    <configuration default="false" name="LinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.LinkedList2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Prep for interviews" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Fibonacci" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Prep for interviews" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.StringToInt">
     <configuration default="false" name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -346,6 +237,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.reverse_sentence" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Prep for interviews" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="splitArrayToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.splitArrayToZero" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Prep for interviews" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.StringToInt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -593,19 +524,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LinkedList2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Multiplication" />
-      <item index="3" class="java.lang.String" itemvalue="Application.checkParenthesis" />
-      <item index="4" class="java.lang.String" itemvalue="Application.reverse_sentence" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Multiplication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.checkParenthesis" />
+      <item index="2" class="java.lang.String" itemvalue="Application.reverse_sentence" />
+      <item index="3" class="java.lang.String" itemvalue="Application.splitArrayToZero" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringToInt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.reverse_sentence" />
-        <item index="1" class="java.lang.String" itemvalue="Application.checkParenthesis" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Multiplication" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Fibonacci" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LinkedList2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringToInt" />
+        <item index="1" class="java.lang.String" itemvalue="Application.splitArrayToZero" />
+        <item index="2" class="java.lang.String" itemvalue="Application.reverse_sentence" />
+        <item index="3" class="java.lang.String" itemvalue="Application.checkParenthesis" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Multiplication" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +569,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456709683473</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding reversing a sentence code">
+      <created>1456722144661</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1456722144661</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -647,12 +584,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31960997" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31960997" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -810,28 +747,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4890017">
+        <state vertical-scroll-proportion="0.48166665">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Multiplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,25 +763,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.83417934">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/checkParenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="1.35533">
           <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/checkpermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87833333">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/splitArrayToZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36833334">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/reverse_sentence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#305#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45333335">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/checkpermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62166667">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
@@ -872,13 +827,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/reverse_sentence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringToInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89170897">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="e#305#313#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.48166665">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
