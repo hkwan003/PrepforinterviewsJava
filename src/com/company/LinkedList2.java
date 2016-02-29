@@ -61,7 +61,8 @@ public class LinkedList2
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         LinkedList2 list = new LinkedList2();
         list.head = new Node(85);
         list.head.next = new Node(15);
