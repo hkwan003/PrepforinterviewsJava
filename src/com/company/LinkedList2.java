@@ -18,15 +18,39 @@ public class LinkedList2
         }
     }
 
-    Node reverse(Node curr)
+    Node ReverseRecurseive(Node node)
     {
-        Node current = curr;
-        Node Prev = null;
-        Node next = null;
-        while(current.next != 0)
+        if(node == null)
         {
-
+            return null;
         }
+        if(node.next == null)
+        {
+            return node;
+        }
+        Node secondElement = node.next;
+
+        node.next = null;
+        Node reverseRest = ReverseRecurseive(secondElement);
+        secondElement.next = node;
+
+        return reverseRest;
+    }
+
+    Node reverse(Node node)         //iteratively reverse
+    {
+        Node prev = null;
+        Node current = node;
+        Node next = null;
+        while(current != null)
+        {
+            next = current.next;
+            current.next = prev;
+            prev = current;
+            current = next;
+        }
+        node = prev;
+        return node;
     }
 
     // prints content of double linked list
@@ -46,7 +70,7 @@ public class LinkedList2
 
         System.out.println("Original Linked list is :");
         list.printList(head);
-        head = list.reverse(head);
+        head = list.ReverseRecurseive(head);
         System.out.println("");
         System.out.println("Reversed linked list : ");
         list.printList(head);
