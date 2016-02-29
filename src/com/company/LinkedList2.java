@@ -18,7 +18,7 @@ public class LinkedList2
         }
     }
 
-    Node ReverseRecurseive(Node node)
+    Node ReverseRecurseive(Node node)           //recursively reverse
     {
         if(node == null)
         {
@@ -74,5 +74,10 @@ public class LinkedList2
         System.out.println("");
         System.out.println("Reversed linked list : ");
         list.printList(head);
+        System.out.println();
+        System.out.println();
+        int temp = 5;
+        temp = temp << 1;
+        System.out.println("shifted temp: " + temp);
     }
 }
